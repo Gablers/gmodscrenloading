@@ -3,9 +3,15 @@
 *  @version: 1.1
 */
 
-/* Background image and color. */
+/* Fixed: Body background will now stretch perfectly instead of repeating */
 body {
-    background: #CCCCCC url("img/bg.png");
+    background: #CCCCCC url("img/bg.png") no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
 }
 
 /* Background color of the left panel. */
@@ -28,6 +34,7 @@ h1, #player {
 #loadBar-width {
     background-color: black;
 }
+
 /* Forces GoulpLoader slideshow backgrounds to stretch instead of repeat */
 .rslides, 
 .rslides li, 
