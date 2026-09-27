@@ -16,10 +16,10 @@
       ]
     },
     "music" : {
-      "active" : false,
-      "file" : "example.wav",
+      "active" : true,
+      "file" : "Buffalo.ogg",
       "volume" : 0.1,
-      "title" : "Example Song"
+      "title" : "Buffalo-Springfield-For-What-It-s-Worth"
     }
   },
   "rules": [
