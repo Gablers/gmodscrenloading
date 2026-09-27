@@ -17,7 +17,7 @@
     },
     "music" : {
       "active" : true,
-      "file" : "Buffalo.ogg",
+      "file" : "music/Buffalo.ogg",
       "volume" : 0.1,
       "title" : "Googabloolgoobaba"
     }
