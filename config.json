@@ -19,12 +19,13 @@
       "active" : true,
       "file" : "Buffalo.ogg",
       "volume" : 0.1,
-      "title" : "Buffalo-Springfield-For-What-It-s-Worth"
+      "title" : "Googabloolgoobaba"
     }
   },
   "rules": [
-    {"line" : "HERE ARE ALL THE RULES YOU WANT TO SHOW TO YOUR USERS."},
-    {"line" : "THERE IS A LIMIT OF 8 LINES."},
-    {"line" : "DON'T USE THE <b>&lt;br&gt;</b> TAG TO JUMP LINES. IT WILL BE DONE AUTOMATICALLY!!!"}
+    {"line" : "When I was a young boy, I dreamt of moon."},
+    {"line" : "Moon isn't reachable they said."},
+    {"line" : "I agree I said."},
+    {"line" : "The End."}
   ]
 }
