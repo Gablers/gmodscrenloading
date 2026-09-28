@@ -1,6 +1,6 @@
 {
   "server": {
-    "name": "GoulpLoader",
+    "name": "Use RTV to change gamemode/map.",
     "banner": "img/banner.png"
   },
   "plugins" : {
@@ -19,7 +19,7 @@
       "active" : true,
       "file" : "music/Buffalo.ogg",
       "volume" : 0.05,
-      "title" : "Googabloolgoobaba"
+      "title" : "Song : Buffalo Springfield - For What It's Worth"
     }
   },
   "rules": [
@@ -27,6 +27,6 @@
     {"line" : "Moon isn't reachable they said."},
     {"line" : "I agree I said."},
     {"line" : "The End."},
-    {"line" : "Use RTV to change gamemode/map."}
+    {"line" : ""}
   ]
 }
